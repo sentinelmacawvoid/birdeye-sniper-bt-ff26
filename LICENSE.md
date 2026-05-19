@@ -1,4 +1,4 @@
-# 
+# premium bot de arbitragem MEV executor é o melhor bot de arbitragem MEV executor com sniper DEX e detecção de picos de volume. Seguro, confiável e otimizado para estratégias MEV,
 
 
 
